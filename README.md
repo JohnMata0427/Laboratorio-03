@@ -1,4 +1,4 @@
-<h1 align="center"><img width="35px" src="https://github.com/JohnMata0427/Laboratorio-03/assets/150484680/00c430b5-fd78-43b7-a8a9-32fe77a58a4f" alt="JavaScript Logo"> JavaScript Fundamentals <img width="35px" src="https://github.com/JohnMata0427/Laboratorio-03/assets/150484680/00c430b5-fd78-43b7-a8a9-32fe77a58a4f" alt="JavaScript Logo"></h1>
+<h1 align="center"><img width="35px" src="https://github.com/JohnMata0427/Laboratorio-03/assets/150484680/00c430b5-fd78-43b7-a8a9-32fe77a58a4f" alt="JavaScript Logo"> Fundamentos de JavaScript <img width="35px" src="https://github.com/JohnMata0427/Laboratorio-03/assets/150484680/00c430b5-fd78-43b7-a8a9-32fe77a58a4f" alt="JavaScript Logo"></h1>
 
 <h2>🟨 Variables</h2>
 
